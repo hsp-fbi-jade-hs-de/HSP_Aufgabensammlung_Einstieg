@@ -2,34 +2,48 @@
 Von hier erhalten Sie einen Überblick über die Aufgabensammung und erhalten über die "invitation links" den Zugang zu den Aufgaben.
 
 ## Inhaltsverzeichnis:
-1. [Level 0](#level-0) 
-
+0. [Level 0](#level-0) 
+1. [Level 1](#level-1) 
+2. [Level 2](#level-2) 
+3. [Level 3](#level-3) 
+4. [Level 4](#level-4) 
 
 ## Level 0
 [Level_0_HelloFunction](https://classroom.github.com/a/16xsL6aM):
+Ganz einfache Aufgabe um die Funktion der Aufgabensammlung zu verstehen. Eine einfache Rückgabe eines Strings ist notwendig.
+
+## Level 1
+[Level_1_HelloFunctionIF](https://classroom.github.com/a/X9oN3cUv):
+Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schreibung des String.
+
+## Level 2
+[Level_2_BubbleSort](https://classroom.github.com/a/SgSuCjds):
 Ganz einfache Aufgabe um die Funktion der Aufgabensammlung zu verstehen
 
+## Level 3
+
+## Level 4
+
+## Getting Started
+* Clonen Sie die Repository auf Ihren Rechner
+* Öffnen Sie die Solution *.sln in Visual Studio
+* Führen Sie die Implementierung in der Methode durch
+
+Wenn Sie fertig sind, dann
+* Im Projektmappen Explorer (engl. Solution Explorer) klicken Sie rechts das -Unittesting Projekt und wählen Sie "Tests ausführen"
+* Starten Sie die Tests innerhalb des Test-Explorers
+
+Diesen Ablauf können Sie auch in diesem Video nachvollziehen.
 
 
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 
-### General Info
-***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
+
+
+# Beispiele
+
+## Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 
-## Technologies
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
 
 ## Installation
 ***
@@ -41,13 +55,6 @@ $ npm install
 $ npm start
 ```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
-
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
 
 ## FAQs
 ***
@@ -62,7 +69,3 @@ To answer this question we use an unordered list:
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
-
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
