@@ -24,3 +24,11 @@ Vorausstzung ist das Arbeiten mit Listen (List) in C#.
 ## Level 3
 
 ## Level 4
+
+## Hinweis
+Wenn Sie feststellen, 
+- dass ein Unit-Test nicht funktioniert, 
+- oder dass die Vorlage für das Repo nicht funktioniert 
+- oder dass eine Aufgabenstellung keinen Sinn macht, 
+- oder anderes...
+dann korrigieren Sie dies bitte in Ihrem persönlichen Repo und machen Sie uns auf Ihre Erkenntnis aufmerksam. Ihre Mitstudierenden werden es Ihnen danken.
