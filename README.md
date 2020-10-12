@@ -21,7 +21,16 @@ Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schr
 Einfaches Sortierverfahren. 
 Vorausstzung ist das Arbeiten mit Listen (List) in C#.
 
+[Level_2_Fakultaet](https://classroom.github.com/a/Uu_yTg1C):
+Errechne in einer Methode die Fakultaet zu einer beliebigen Zahl.
+
+[Level_2_Summe bis n](https://classroom.github.com/a/cf1He3JS):
+Errechne in einer Methode die Summe bis zu einer beliebigen Zahl. (1+2+3+4+5...+n)
+
 ## Level 3
+
+[Level_3_Fibonacci](https://classroom.github.com/a/7ziRVOOZ):
+Errechne in einer Methode die Fibonacci Folge und gebe diese bis zu einer beliebig positiven Zahl aus. 
 
 ## Level 4
 
