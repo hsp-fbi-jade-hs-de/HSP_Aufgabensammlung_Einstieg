@@ -18,7 +18,8 @@ Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schr
 
 ## Level 2
 [Level_2_BubbleSort](https://classroom.github.com/a/SgSuCjds):
-Ganz einfache Aufgabe um die Funktion der Aufgabensammlung zu verstehen
+Einfaches Sortierverfahren. 
+Vorausstzung: Listen List<T> in C#
 
 ## Level 3
 
