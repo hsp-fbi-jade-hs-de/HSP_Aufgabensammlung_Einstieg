@@ -18,8 +18,8 @@ Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schr
 
 ## Level 2
 [Level_2_BubbleSort](https://classroom.github.com/a/SgSuCjds):
-Einfaches Sortierverfahren. 
-Vorausstzung ist das Arbeiten mit Listen (List) in C#.
+Sortiere eine Liste mit diesem einfachen Sortierverfahren, welches immer die nächsten Nachbarn vergleicht und ggf. vertauscht. 
+Voraussetzung ist das Arbeiten mit Listen (List) in C#.
 
 [Level_2_Fakultaet](https://classroom.github.com/a/Uu_yTg1C):
 Errechne in einer Methode die Fakultaet zu einer beliebigen Zahl.
@@ -28,7 +28,6 @@ Errechne in einer Methode die Fakultaet zu einer beliebigen Zahl.
 Errechne in einer Methode die Summe bis zu einer beliebigen Zahl. (1+2+3+4+5...+n)
 
 ## Level 3
-
 [Level_3_Fibonacci](https://classroom.github.com/a/7ziRVOOZ):
 Errechne in einer Methode die Fibonacci Folge und gebe diese bis zu einer beliebig positiven Zahl aus. 
 
