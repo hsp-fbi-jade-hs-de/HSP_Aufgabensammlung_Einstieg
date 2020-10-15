@@ -32,6 +32,9 @@ Errechne in einer Methode die Summe bis zu einer beliebigen Zahl. (1+2+3+4+5...+
 [Level_3_Fibonacci](https://classroom.github.com/a/7ziRVOOZ):
 Errechne in einer Methode die Fibonacci Folge und gebe diese bis zu einer beliebig positiven Zahl aus. 
 
+[Level_3_Trigonometrie](https://classroom.github.com/a/uqIhOSmj):
+Errechne in einer Methode die Seitenlängen, Winkel sowie den Umfang und die Fläche eines beliebigen Dreiecks. 
+
 ## Level 4
 
 ## Hinweis
