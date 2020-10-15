@@ -27,6 +27,9 @@ Errechne in einer Methode die Fakultaet zu einer beliebigen Zahl.
 [Level_2_Summe bis n](https://classroom.github.com/a/cf1He3JS):
 Errechne in einer Methode die Summe bis zu einer beliebigen Zahl. (1+2+3+4+5...+n)
 
+[Level_2_Verdoppeln](https://classroom.github.com/a/uWzbBjBA):
+Verdopple eine ganze Zahl, bis diese dreistellig wird und gib die Anzahl der nötigen Schritte aus.
+
 ## Level 3
 [Level_3_Fibonacci](https://classroom.github.com/a/7ziRVOOZ):
 Errechne in einer Methode die Fibonacci Folge und gebe diese bis zu einer beliebig positiven Zahl aus. 
