@@ -16,6 +16,9 @@ Ganz einfache Aufgabe um die Funktion der Aufgabensammlung zu verstehen. Eine ei
 [Level_1_HelloFunctionIF](https://classroom.github.com/a/X9oN3cUv):
 Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schreibung des String.
 
+[Level_1_ObjektorientierteKreise](https://classroom.github.com/a/VXOQmgb4):
+Ergänzen Sie, durch ToDos geführt, den Code für eine erste objektorientierte Anwendung.
+
 ## Level 2
 [Level_2_BubbleSort](https://classroom.github.com/a/SgSuCjds):
 Sortiere eine Liste mit diesem einfachen Sortierverfahren, welches immer die nächsten Nachbarn vergleicht und ggf. vertauscht. 
