@@ -43,6 +43,9 @@ Verdopple eine ganze Zahl, bis diese dreistellig wird und gib die Anzahl der nö
 [Level_3_Fibonacci](https://classroom.github.com/a/7ziRVOOZ):
 Errechne in einer Methode die Fibonacci Folge und gebe diese bis zu einer beliebig positiven Zahl aus. 
 
+[Level 3 MergeSort](https://classroom.github.com/a/G5nzObXl):
+Sortiere Array mit diesem Sortierverfahren, Voraussetzung ist das Arbeiten mit Arrays ([]) in C#.
+
 [Level_3_Trigonometrie](https://classroom.github.com/a/uqIhOSmj):
 Errechne in einer Methode die Seitenlängen, Winkel sowie den Umfang und die Fläche eines beliebigen Dreiecks. 
 
