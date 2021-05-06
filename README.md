@@ -19,6 +19,9 @@ Addieren sie zwei Variablen
 [Level_1_HelloFunctionIF](https://classroom.github.com/a/X9oN3cUv):
 Erweitern Sie die HelloFunction mit einer Fallunter für klein- oder GROSS- Schreibung des String.
 
+[Level 1 Dreioeckstausch](https://classroom.github.com/a/RMMWq9wJ): 
+Tauschen sie die Werte zweier Variablen  
+
 [Level_1_ObjektorientierteKreise](https://classroom.github.com/a/VXOQmgb4):
 Ergänzen Sie, durch ToDos geführt, den Code für eine erste objektorientierte Anwendung.
 
