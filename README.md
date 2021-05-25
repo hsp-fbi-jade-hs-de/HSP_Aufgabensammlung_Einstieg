@@ -33,6 +33,9 @@ Voraussetzung ist das Arbeiten mit Listen (List) in C#.
 [Level_2_Fakultaet](https://classroom.github.com/a/Uu_yTg1C):
 Errechne in einer Methode die Fakultaet zu einer beliebigen Zahl.
 
+[Level_2_Listen](https://classroom.github.com/a/UbjMPC8v):
+Legen sie ein liste an und Fügen sie drei Strings in diese ein.
+
 [Level_2_Summe bis n](https://classroom.github.com/a/cf1He3JS):
 Errechne in einer Methode die Summe bis zu einer beliebigen Zahl. (1+2+3+4+5...+n)
 
