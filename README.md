@@ -53,6 +53,11 @@ Sortiere Array mit diesem Sortierverfahren, Voraussetzung ist das Arbeiten mit A
 Errechne in einer Methode die Seitenlängen, Winkel sowie den Umfang und die Fläche eines beliebigen Dreiecks. 
 
 ## Level 4
+[Level_4_Türme von Hannoi](https://classroom.github.com/a/zoQJ7gqS):
+Das Spiel besteht aus drei gleich großen Stäben A, B und C, auf die mehrere gelochte Scheiben gelegt werden, alle verschieden groß. Zu Beginn liegen alle Scheiben auf Stab A, der Größe nach geordnet, mit der größten Scheibe unten und der kleinsten oben. Ziel des Spiels ist es, den kompletten Scheiben-Stapel von A nach C zu versetzen.
+
+Bei jedem Zug darf die oberste Scheibe eines beliebigen Stabes unter der Voraussetzung, dass sich dort nicht schon eine kleinere Scheibe befindet, auf einen der beiden anderen Stäbe gelegt werden. Folglich sind zu jedem Zeitpunkt des Spieles die Scheiben auf jedem Feld der Größe nach geordnet.
+
 
 ## Hinweis
 Wenn Sie feststellen, 
